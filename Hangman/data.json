@@ -1,0 +1,176 @@
+{
+  "cities": [
+    {
+      "word": "Praha",
+      "hint": "Staroměstský orloj"
+    },
+    {
+      "word": "Bratislava",
+      "hint": "Hviezdoslavovo náměstí"
+    },
+    {
+      "word": "Berlín",
+      "hint": "Braniborská brána"
+    },
+    {
+      "word": "Amsterdam",
+      "hint": "Čtvrť červených světel"
+    },
+    {
+      "word": "Washington DC",
+      "hint": "Bílý dům"
+    },
+    {
+      "word": "Moskva",
+      "hint": "Chrám Vasila Blaženého"
+    },
+    {
+      "word": "Vídeň",
+      "hint": "Schönbrunn palác"
+    },
+    {
+      "word": "Helsinki",
+      "hint": "Námořní obranná pevnost Suomenlinna"
+    },
+    {
+      "word": "Řím",
+      "hint": "Koloseum"
+    },
+    {
+      "word": "Tokio",
+      "hint": "Historický chrám bohyně milosrdenství Sensō-ji"
+    },
+    {
+      "word": "Madrid",
+      "hint": "Evropská umělecká sbírka světové úrovně"
+    },
+    {
+      "word": "Sofie",
+      "hint": "Katedrála svatého Alexandra Něvského"
+    },
+    {
+      "word": "Paříž",
+      "hint": "Eiffelova věž"
+    },
+    {
+      "word": "Lisabon",
+      "hint": "Belémská věž"
+    }
+  ],
+  "countries": [
+    {
+      "word": "Česká republika",
+      "hint": "Země v srdci Evropy"
+    },
+    {
+      "word": "Slovensko",
+      "hint": "Nejbližší přítel Česka"
+    },
+    {
+      "word": "Německo",
+      "hint": "Země s vyspělým automobilovým průmyslem"
+    },
+    {
+      "word": "Rakousko",
+      "hint": "Wolfgang Amadeus Mozart se v této zemi narodil"
+    },
+    {
+      "word": "Velká Británie",
+      "hint": "Země se stále deštivým počasím"
+    },
+    {
+      "word": "Francie",
+      "hint": "Jeden ze zakladatelů EU"
+    },
+    {
+      "word": "Spojené státy americké",
+      "hint": "Skládají se z 50 států"
+    },
+    {
+      "word": "Itálie",
+      "hint": "Vznikla zde pizza"
+    },
+    {
+      "word": "Švýcarsko",
+      "hint": "Bohatá neutrální země"
+    },
+    {
+      "word": "Nizozemsko",
+      "hint": "Země tulipánů"
+    },
+    {
+      "word": "Španělsko",
+      "hint": "Provincie Kanárské ostrovy"
+    },
+    {
+      "word": "Finsko",
+      "hint": "Země s mnoha rybníky"
+    },
+    {
+      "word": "Rusko",
+      "hint": "Rozlohově největší stát na světě"
+    },
+    {
+      "word": "Turecko",
+      "hint": "Vznikl zde pokrm kebab"
+    }
+  ],
+  "regions": [
+    {
+      "word": "Hlavní město Praha",
+      "hint": "Nejmenší kraj rozlohou"
+    },
+    {
+      "word": "Středočeský kraj",
+      "hint": "Nejlidnatější kraj"
+    },
+    {
+      "word": "Jihočeský kraj",
+      "hint": "Kraj s velkým počtem rybníků"
+    },
+    {
+      "word": "Plzenský kraj",
+      "hint": "Kraj s nejznámějším českým pivem"
+    },
+    {
+      "word": "Karlovarský kraj",
+      "hint": "Kraj plný lázeňských měst"
+    },
+    {
+      "word": "Ústecký kraj",
+      "hint": "Kraj s velkým kusem Labe"
+    },
+    {
+      "word": "Liberecký kraj",
+      "hint": "Ještědská věž je v tomto kraji"
+    },
+    {
+      "word": "Královehradecký kraj",
+      "hint": "Kraj se známým zoo a safari"
+    },
+    {
+      "word": "Pardubický kraj",
+      "hint": "Velké dostihy se konají v tomto kraji"
+    },
+    {
+      "word": "Kraj Vysočina",
+      "hint": "Kraj nese stejný název jako salám"
+    },
+    {
+      "word": "Jihomoravský kraj",
+      "hint": "Kraj s městem bez metra"
+    },
+    {
+      "word": "Olomoucký kraj",
+      "hint": "V tomto kraji vznikly známé tvarůžky"
+    },
+    {
+      "word": "Moravskoslezký kraj",
+      "hint": "V tomto kraji se hodně těží uhlí"
+    },
+    {
+      "word": "Zlínský kraj",
+      "hint": "Tomáš Baťa zde vybudoval město"
+    }
+  ]
+}
