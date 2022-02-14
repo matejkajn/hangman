@@ -1,2 +1,4 @@
-# hangman
-Semestrální práce na téma hry hangman
+# Hangman
+Semestrální práce v 5. semestru Vysoké školy ekonomické v Praze v rámci předmětu Webové technologie.
+
+Zadání bylo vytvořit jednoduchou hru hangman.
